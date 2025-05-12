@@ -1,0 +1,25 @@
+
+
+##
+## # lightdm
+##
+
+
+
+
+##
+## ## Package / lightdm
+##
+
+lightdm
+lightdm-settings
+
+
+
+
+##
+## ## Package / lightdm / greeter / gtk
+##
+
+lightdm-gtk-greeter
+lightdm-gtk-greeter-settings
