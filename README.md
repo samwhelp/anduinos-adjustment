@@ -6,6 +6,7 @@
 | ---- | ------ |
 | [AnduinOS Adjustment](https://samwhelp.github.io/anduinos-adjustment/) | [GitHub](https://github.com/samwhelp/anduinos-adjustment) |
 | [AnduinOS Note](https://samwhelp.github.io/note-about-anduinos/) | [GitHub](https://github.com/samwhelp/note-about-anduinos) |
+| [demo-for-anduinos-discussion](https://samwhelp.github.io/demo-for-anduinos-discussion/) | [GitHub](https://github.com/samwhelp/demo-for-anduinos-discussion) |
 
 
 
