@@ -18,7 +18,7 @@
 
 | Ubuntu Package |
 | --- |
-| [nemo](https://packages.ubuntu.com/noble/nemo) |
+| [nemo](https://packages.ubuntu.com/resolute/nemo) |
 
 
 

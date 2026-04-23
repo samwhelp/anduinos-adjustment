@@ -18,7 +18,7 @@
 
 | Ubuntu Package |
 | --- |
-| [nautilus](https://packages.ubuntu.com/noble/nautilus) |
+| [nautilus](https://packages.ubuntu.com/resolute/nautilus) |
 
 
 

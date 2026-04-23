@@ -26,7 +26,7 @@
 
 | Ubuntu Package |
 | --- |
-| [kate](https://packages.ubuntu.com/noble/kate) |
+| [kate](https://packages.ubuntu.com/resolute/kate) |
 
 
 

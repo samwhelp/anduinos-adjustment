@@ -15,7 +15,7 @@
 
 | Ubuntu Package |
 | --- |
-| [thunar](https://packages.ubuntu.com/noble/thunar) |
+| [thunar](https://packages.ubuntu.com/resolute/thunar) |
 
 
 

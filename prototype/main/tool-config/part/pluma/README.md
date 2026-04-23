@@ -19,7 +19,7 @@
 
 | Ubuntu Package |
 | --- |
-| [pluma](https://packages.ubuntu.com/noble/pluma) |
+| [pluma](https://packages.ubuntu.com/resolute/pluma) |
 
 
 

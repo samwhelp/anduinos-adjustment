@@ -13,7 +13,7 @@
 
 | Ubuntu Package |
 | --- |
-| [vim](https://packages.ubuntu.com/noble/vim) |
+| [vim](https://packages.ubuntu.com/resolute/vim) |
 
 
 

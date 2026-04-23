@@ -18,7 +18,7 @@
 
 | Ubuntu Package |
 | --- |
-| [yakuake](https://packages.ubuntu.com/noble/yakuake) |
+| [yakuake](https://packages.ubuntu.com/resolute/yakuake) |
 
 
 

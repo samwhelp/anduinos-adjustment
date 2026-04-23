@@ -13,7 +13,7 @@
 
 | Ubuntu Package |
 | --- |
-| [qterminal](https://packages.ubuntu.com/noble/qterminal) |
+| [qterminal](https://packages.ubuntu.com/resolute/qterminal) |
 
 
 

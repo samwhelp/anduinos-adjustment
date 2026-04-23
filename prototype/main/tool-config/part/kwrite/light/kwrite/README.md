@@ -26,7 +26,7 @@
 
 | Ubuntu Package |
 | --- |
-| [kwrite](https://packages.ubuntu.com/noble/kwrite) |
+| [kwrite](https://packages.ubuntu.com/resolute/kwrite) |
 
 
 

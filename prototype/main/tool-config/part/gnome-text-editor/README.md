@@ -18,7 +18,7 @@
 
 | Ubuntu Package |
 | --- |
-| [gnome-text-editor](https://packages.ubuntu.com/noble/gnome-text-editor) |
+| [gnome-text-editor](https://packages.ubuntu.com/resolute/gnome-text-editor) |
 
 
 

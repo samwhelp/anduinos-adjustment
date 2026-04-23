@@ -17,7 +17,7 @@
 
 | Ubuntu Package |
 | --- |
-| [pcmanfm-qt](https://packages.ubuntu.com/noble/pcmanfm-qt) |
+| [pcmanfm-qt](https://packages.ubuntu.com/resolute/pcmanfm-qt) |
 
 
 

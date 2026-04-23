@@ -15,7 +15,7 @@
 
 | Ubuntu Package |
 | --- |
-| [feathernotes](https://packages.ubuntu.com/noble/feathernotes) |
+| [feathernotes](https://packages.ubuntu.com/resolute/feathernotes) |
 
 
 

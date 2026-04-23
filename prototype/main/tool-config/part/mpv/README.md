@@ -15,7 +15,7 @@
 
 | Ubuntu Package |
 | --- |
-| [mpv](https://packages.ubuntu.com/noble/mpv) |
+| [mpv](https://packages.ubuntu.com/resolute/mpv) |
 
 
 

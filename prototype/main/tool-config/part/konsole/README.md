@@ -28,7 +28,7 @@
 
 | Ubuntu Package |
 | --- |
-| [konsole](https://packages.ubuntu.com/noble/konsole) |
+| [konsole](https://packages.ubuntu.com/resolute/konsole) |
 
 
 

@@ -18,7 +18,7 @@
 
 | Ubuntu Package |
 | --- |
-| [caja](https://packages.ubuntu.com/noble/caja) |
+| [caja](https://packages.ubuntu.com/resolute/caja) |
 
 
 

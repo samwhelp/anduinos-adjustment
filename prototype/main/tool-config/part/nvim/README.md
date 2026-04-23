@@ -13,7 +13,7 @@
 
 | Ubuntu Package |
 | --- |
-| [neovim](https://packages.ubuntu.com/noble/neovim) |
+| [neovim](https://packages.ubuntu.com/resolute/neovim) |
 
 
 

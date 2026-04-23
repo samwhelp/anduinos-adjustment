@@ -27,7 +27,7 @@
 
 | Ubuntu Package |
 | --- |
-| [dolphin](https://packages.ubuntu.com/noble/dolphin) |
+| [dolphin](https://packages.ubuntu.com/resolute/dolphin) |
 
 
 

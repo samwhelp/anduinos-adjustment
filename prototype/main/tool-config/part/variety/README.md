@@ -18,7 +18,7 @@
 
 | Ubuntu Package |
 | --- |
-| [variety](https://packages.ubuntu.com/noble/variety) |
+| [variety](https://packages.ubuntu.com/resolute/variety) |
 
 
 

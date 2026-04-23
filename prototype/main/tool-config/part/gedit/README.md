@@ -19,7 +19,7 @@
 
 | Ubuntu Package |
 | --- |
-| [gedit](https://packages.ubuntu.com/noble/gedit) |
+| [gedit](https://packages.ubuntu.com/resolute/gedit) |
 
 
 

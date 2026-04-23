@@ -6,7 +6,7 @@
 
 | Ubuntu Package |
 | --- |
-| [tilix](https://packages.ubuntu.com/noble/tilix) |
+| [tilix](https://packages.ubuntu.com/resolute/tilix) |
 
 
 

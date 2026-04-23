@@ -25,7 +25,7 @@
 
 | Ubuntu Package |
 | --- |
-| [gwenview](https://packages.ubuntu.com/noble/gwenview) |
+| [gwenview](https://packages.ubuntu.com/resolute/gwenview) |
 
 
 

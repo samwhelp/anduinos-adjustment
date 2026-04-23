@@ -16,7 +16,7 @@
 
 | Ubuntu Package |
 | --- |
-| [rofi](https://packages.ubuntu.com/noble/rofi) |
+| [rofi](https://packages.ubuntu.com/resolute/rofi) |
 
 
 

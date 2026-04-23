@@ -18,7 +18,7 @@
 
 | Ubuntu Package |
 | --- |
-| [geany](https://packages.ubuntu.com/noble/geany) |
+| [geany](https://packages.ubuntu.com/resolute/geany) |
 
 
 

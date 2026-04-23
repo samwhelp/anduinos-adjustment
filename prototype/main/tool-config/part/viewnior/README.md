@@ -22,7 +22,7 @@
 
 | Ubuntu Package |
 | --- |
-| [viewnior](https://packages.ubuntu.com/noble/viewnior) |
+| [viewnior](https://packages.ubuntu.com/resolute/viewnior) |
 
 
 

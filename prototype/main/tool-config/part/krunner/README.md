@@ -18,7 +18,7 @@
 
 | Ubuntu Package |
 | --- |
-| [krunner](https://packages.ubuntu.com/noble/krunner) |
+| [krunner](https://packages.ubuntu.com/resolute/krunner) |
 
 
 

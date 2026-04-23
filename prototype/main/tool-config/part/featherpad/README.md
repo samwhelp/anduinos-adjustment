@@ -17,7 +17,7 @@
 
 | Ubuntu Package |
 | --- |
-| [featherpad](https://packages.ubuntu.com/noble/featherpad) |
+| [featherpad](https://packages.ubuntu.com/resolute/featherpad) |
 
 
 

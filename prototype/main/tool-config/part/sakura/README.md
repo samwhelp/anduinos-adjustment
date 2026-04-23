@@ -15,7 +15,7 @@
 
 | Ubuntu Package |
 | --- |
-| [sakura](https://packages.ubuntu.com/noble/sakura) |
+| [sakura](https://packages.ubuntu.com/resolute/sakura) |
 
 
 

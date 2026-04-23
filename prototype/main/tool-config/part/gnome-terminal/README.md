@@ -6,7 +6,7 @@
 
 | Ubuntu Package |
 | --- |
-| [gnome-terminal](https://packages.ubuntu.com/noble/gnome-terminal) |
+| [gnome-terminal](https://packages.ubuntu.com/resolute/gnome-terminal) |
 
 
 

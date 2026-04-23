@@ -7,7 +7,7 @@
 
 | Ubuntu Package |
 | --- |
-| [mousepad](https://packages.ubuntu.com/noble/mousepad) |
+| [mousepad](https://packages.ubuntu.com/resolute/mousepad) |
 
 
 

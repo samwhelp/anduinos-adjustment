@@ -13,7 +13,7 @@
 
 | Ubuntu Package |
 | --- |
-| [xfce4-terminal](https://packages.ubuntu.com/noble/xfce4-terminal) |
+| [xfce4-terminal](https://packages.ubuntu.com/resolute/xfce4-terminal) |
 
 
 
