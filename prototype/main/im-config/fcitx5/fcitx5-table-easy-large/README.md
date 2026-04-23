@@ -26,16 +26,16 @@
 
 | Ubuntu Package |
 | --- |
-| [im-config](https://packages.ubuntu.com/noble/im-config) |
-| [fcitx5](https://packages.ubuntu.com/noble/fcitx5) |
-| [fcitx5-table-easy-large](https://packages.ubuntu.com/noble/fcitx5-table-easy-large) |
-| [fcitx5-chinese-addons](https://packages.ubuntu.com/noble/fcitx5-chinese-addons) |
-| [fcitx5-config-qt](https://packages.ubuntu.com/noble/fcitx5-config-qt) |
-| [fcitx5-frontend-gtk2](https://packages.ubuntu.com/noble/fcitx5-frontend-gtk2) |
-| [fcitx5-frontend-gtk3](https://packages.ubuntu.com/noble/fcitx5-frontend-gtk3) |
-| [fcitx5-frontend-gtk4](https://packages.ubuntu.com/noble/fcitx5-frontend-gtk4) |
-| [fcitx5-frontend-qt5](https://packages.ubuntu.com/noble/fcitx5-frontend-qt5) |
-| [fcitx5-frontend-qt6](https://packages.ubuntu.com/noble/fcitx5-frontend-qt6) |
+| [im-config](https://packages.ubuntu.com/resolute/im-config) |
+| [fcitx5](https://packages.ubuntu.com/resolute/fcitx5) |
+| [fcitx5-table-easy-large](https://packages.ubuntu.com/resolute/fcitx5-table-easy-large) |
+| [fcitx5-chinese-addons](https://packages.ubuntu.com/resolute/fcitx5-chinese-addons) |
+| [fcitx5-config-qt](https://packages.ubuntu.com/resolute/fcitx5-config-qt) |
+| [fcitx5-frontend-gtk2](https://packages.ubuntu.com/resolute/fcitx5-frontend-gtk2) |
+| [fcitx5-frontend-gtk3](https://packages.ubuntu.com/resolute/fcitx5-frontend-gtk3) |
+| [fcitx5-frontend-gtk4](https://packages.ubuntu.com/resolute/fcitx5-frontend-gtk4) |
+| [fcitx5-frontend-qt5](https://packages.ubuntu.com/resolute/fcitx5-frontend-qt5) |
+| [fcitx5-frontend-qt6](https://packages.ubuntu.com/resolute/fcitx5-frontend-qt6) |
 
 
 

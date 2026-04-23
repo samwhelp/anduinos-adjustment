@@ -16,8 +16,8 @@
 
 | Ubuntu Package |
 | --- |
-| [sddm](https://packages.ubuntu.com/noble/sddm) |
-| [sddm-theme-maldives](https://packages.ubuntu.com/noble/sddm-theme-maldives) |
+| [sddm](https://packages.ubuntu.com/resolute/sddm) |
+| [sddm-theme-maldives](https://packages.ubuntu.com/resolute/sddm-theme-maldives) |
 
 
 

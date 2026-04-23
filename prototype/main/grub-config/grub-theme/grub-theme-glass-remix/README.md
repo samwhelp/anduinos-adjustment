@@ -28,9 +28,9 @@ GRUB_THEME="/boot/grub/themes/grub-theme-glass-remix/theme.txt"
 
 | Ubuntu Package |
 | --- |
-| [grub2](https://packages.ubuntu.com/noble/grub2) |
-| [grub-common](https://packages.ubuntu.com/noble/grub-common) |
-| [grub-pc](https://packages.ubuntu.com/noble/grub-pc) |
+| [grub2](https://packages.ubuntu.com/resolute/grub2) |
+| [grub-common](https://packages.ubuntu.com/resolute/grub-common) |
+| [grub-pc](https://packages.ubuntu.com/resolute/grub-pc) |
 
 
 

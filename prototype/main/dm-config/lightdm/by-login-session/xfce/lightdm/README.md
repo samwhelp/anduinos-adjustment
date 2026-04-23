@@ -16,10 +16,10 @@
 
 | Ubuntu Package |
 | --- |
-| [lightdm](https://packages.ubuntu.com/noble/lightdm) |
-| [lightdm-settings](https://packages.ubuntu.com/noble/lightdm-settings) |
-| [lightdm-gtk-greeter](https://packages.ubuntu.com/noble/lightdm-gtk-greeter) |
-| [lightdm-gtk-greeter-settings](https://packages.ubuntu.com/noble/lightdm-gtk-greeter-settings) |
+| [lightdm](https://packages.ubuntu.com/resolute/lightdm) |
+| [lightdm-settings](https://packages.ubuntu.com/resolute/lightdm-settings) |
+| [lightdm-gtk-greeter](https://packages.ubuntu.com/resolute/lightdm-gtk-greeter) |
+| [lightdm-gtk-greeter-settings](https://packages.ubuntu.com/resolute/lightdm-gtk-greeter-settings) |
 
 
 

@@ -17,7 +17,7 @@
 
 | Ubuntu Package |
 | --- |
-| [grub-common](https://packages.ubuntu.com/noble/grub-common) |
+| [grub-common](https://packages.ubuntu.com/resolute/grub-common) |
 
 
 

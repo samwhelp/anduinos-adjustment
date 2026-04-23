@@ -20,8 +20,8 @@
 
 | Ubuntu Package |
 | --- |
-| [xdg-utils](https://packages.ubuntu.com/noble/xdg-utils) |
-| [xdg-user-dirs](https://packages.ubuntu.com/noble/xdg-user-dirs) |
+| [xdg-utils](https://packages.ubuntu.com/resolute/xdg-utils) |
+| [xdg-user-dirs](https://packages.ubuntu.com/resolute/xdg-user-dirs) |
 
 
 
