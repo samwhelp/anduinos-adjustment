@@ -19,6 +19,23 @@ has_children: false
 | GitLab / [AnduinOS](https://gitlab.aiursoft.cn/anduin/anduinos) |
 | AnduinOS / [Community](https://github.com/Anduin2017/AnduinOS/discussions) |
 | AnduinOS / [Download](https://download.anduinos.com/) |
+| [packages.anduinos.com](https://packages.anduinos.com/) |
+
+
+
+
+## Source
+
+Search: [anduinos](https://github.com/orgs/AiursoftWeb/repositories?q=anduinos)
+
+| Link |
+| ---- |
+| [AnduinOS-2](https://github.com/AiursoftWeb/AnduinOS-2) |
+| [AnduinOS-Packages](https://github.com/AiursoftWeb/AnduinOS-Packages) |
+| [Apkg](https://github.com/AiursoftWeb/Apkg) |
+| [ApkgServerInitScript](https://github.com/Anduin2017/ApkgServerInitScript) |
+| [AnduinOS-Docs](https://github.com/AiursoftWeb/AnduinOS-Docs) |
+| [AnduinOSHome](https://github.com/AiursoftWeb/AnduinOSHome) |
 
 
 
