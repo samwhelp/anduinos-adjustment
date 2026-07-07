@@ -46,8 +46,7 @@
 
 | Link | GitHub |
 | ---- | ------ |
-| [AnduinOS / ISO Builder / Remix](https://samwhelp.github.io/anduinos-iso-builder-remix/) | [GitHub](https://github.com/samwhelp/anduinos-iso-builder-remix) |
-| [AnduinOS / Live Build Config / Sample](https://samwhelp.github.io/anduinos-live-build-config-sample/) | [GitHub](https://github.com/samwhelp/anduinos-live-build-config-sample) |
+| [anduinos-iso-builder-template](https://samwhelp.github.io/anduinos-iso-builder-template/) | [GitHub](https://github.com/samwhelp/anduinos-iso-builder-template) |
 
 
 
